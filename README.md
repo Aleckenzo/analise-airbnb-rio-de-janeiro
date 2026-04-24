@@ -1,4 +1,4 @@
-# 🏠 Análise Exploratória de Dados do Airbnb no Rio de Janeiro
+# 🏠 Análise de Dados do Airbnb no Rio de Janeiro
 
 ---
 
